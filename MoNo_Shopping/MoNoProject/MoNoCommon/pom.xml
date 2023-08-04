@@ -8,7 +8,7 @@
 		<version>3.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.monocommon</groupId>
+	<groupId>com.mono.common</groupId>
 	<artifactId>MoNoCommon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MoNoCommon</name>
@@ -18,8 +18,10 @@
 	</properties>
 	<dependencies>
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-jpa</artifactId>
-		</dependency>
+	        <groupId>org.springframework.boot</groupId>
+	        <artifactId>spring-boot-starter-data-jpa</artifactId>
+    	</dependency>
+    	
+    	
 	</dependencies>
 </project>

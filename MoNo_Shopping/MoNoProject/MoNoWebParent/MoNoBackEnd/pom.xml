@@ -9,13 +9,13 @@
 	</parent>
 	<groupId>com.monobackend</groupId>
 	<artifactId>MoNoBackEnd</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>MoNoBackEnd</name>
 	<description>Admin BackEnd of MoNoWebParent</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+	
 	</dependencies>
 
 	<build>
